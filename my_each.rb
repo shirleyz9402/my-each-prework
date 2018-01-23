@@ -5,7 +5,3 @@ n = 0
     yield(array[n])
   end 
 end
-
-my_each(collection) do |n|
-  puts n
-end
